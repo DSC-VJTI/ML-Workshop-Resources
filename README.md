@@ -26,3 +26,5 @@
 [Clustering Theory](https://docs.google.com/presentation/d/1Z0MFx5_lRhLiDlXN11OEfS6vJ9oqnzMcMSIYmVGh9ug/edit?usp=drivesdk)
 
 [Model Evaluation and Metrics](https://docs.google.com/presentation/d/1LQoN_wT06PA679AZ1jqDkQ4-av9Yhhb4qSfWjdyc7cE/edit)
+
+[Improving Model Performance](https://docs.google.com/presentation/d/1ksbQuWZdc8ofcOcplfnoEjgFThfcg_d1J3B5uYDs5eA/edit?usp=sharing)
